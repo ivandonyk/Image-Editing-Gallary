@@ -1,0 +1,6 @@
+The task is to build an inspiration gallery for a clothing designer.
+• Build a simple web app gallery using React.
+• Users should be able to select an image from the gallery and manipulate the image (at least
+change the image dimensions; include other features at your discretion).
+• Add the option to upload your own image to the gallery.
+• Include any small functionalities that you believe would be useful to a user.
